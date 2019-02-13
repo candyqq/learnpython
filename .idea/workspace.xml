@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5b407c8-eea5-4d3a-9e04-551c19924904" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day4/day4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/day5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/day3.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/day3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,17 +34,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day3/day3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
+            <state relative-caret-position="2660">
               <caret line="140" selection-start-line="140" selection-end-line="140" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day4/day4.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="89" column="24" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day5/day5.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="282">
-              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
             </state>
           </provider>
         </entry>
@@ -70,12 +78,13 @@
         <option value="$PROJECT_DIR$/day2/day2.py" />
         <option value="$PROJECT_DIR$/day3/day3.py" />
         <option value="$PROJECT_DIR$/day4/day4.py" />
+        <option value="$PROJECT_DIR$/day5/day5.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="223" />
-    <option name="y" value="172" />
+    <option name="x" value="287" />
+    <option name="y" value="131" />
     <option name="width" value="1425" />
     <option name="height" value="860" />
   </component>
@@ -102,6 +111,11 @@
               <item name="learnpython" type="462c0819:PsiDirectoryNode" />
               <item name="day4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learnpython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnpython" type="462c0819:PsiDirectoryNode" />
+              <item name="day5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -121,28 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.day4">
-    <configuration name="day1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learnpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/day1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.day5">
     <configuration name="day2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,6 +199,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="day5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learnpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day5/day5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="xing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day5" />
         <item itemvalue="Python.day4" />
         <item itemvalue="Python.day3" />
         <item itemvalue="Python.day2" />
         <item itemvalue="Python.xing" />
-        <item itemvalue="Python.day1" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +265,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="736" y="64" width="1140" height="688" extended-state="0" />
+    <frame x="702" y="86" width="1140" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -295,15 +309,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day3/day3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
+        <state relative-caret-position="2660">
           <caret line="140" selection-start-line="140" selection-end-line="140" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/day4.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="89" column="24" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/day5.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
-          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
