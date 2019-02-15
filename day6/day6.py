@@ -123,4 +123,3 @@ for n in primes():
         print(n)
     else:
         break
-    
