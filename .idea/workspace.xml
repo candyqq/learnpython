@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5b407c8-eea5-4d3a-9e04-551c19924904" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day9/day9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/day10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +14,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day10/day10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day9/day9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
+            <state relative-caret-position="2104">
+              <caret line="153" selection-start-line="153" selection-end-line="153" />
             </state>
           </provider>
         </entry>
@@ -47,14 +56,16 @@
         <option value="$PROJECT_DIR$/day7/day7.py" />
         <option value="$PROJECT_DIR$/day8/day8.py" />
         <option value="$PROJECT_DIR$/day9/day9.py" />
+        <option value="$PROJECT_DIR$/day10/打印0.py" />
+        <option value="$PROJECT_DIR$/day10/day10.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="886" />
-    <option name="y" value="3" />
-    <option name="width" value="1359" />
-    <option name="height" value="864" />
+    <option name="x" value="835" />
+    <option name="y" value="47" />
+    <option name="width" value="1360" />
+    <option name="height" value="865" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -62,7 +73,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,10 +90,16 @@
               <item name="learnpython" type="462c0819:PsiDirectoryNode" />
               <item name="day9" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learnpython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnpython" type="462c0819:PsiDirectoryNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -98,7 +114,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.day9">
+  <component name="RunManager" selected="Python.day10">
+    <configuration name="day10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learnpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10/day10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="day5" type="PythonConfigurationType" factoryName="Python">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,6 +243,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day10" />
         <item itemvalue="Python.day8" />
         <item itemvalue="Python.day7" />
         <item itemvalue="Python.day6" />
@@ -226,15 +264,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="709" y="3" width="1087" height="691" extended-state="0" />
+    <frame x="668" y="38" width="1088" height="692" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26260704" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2623574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25223613" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25178573" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,10 +359,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day10/打印0.py" />
     <entry file="file://$PROJECT_DIR$/day9/day9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
+        <state relative-caret-position="2104">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10/day10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
         </state>
       </provider>
     </entry>
